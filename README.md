@@ -1,2 +1,2 @@
 # Git_course
-##Project imporatant Notes
+## Project imporatant Notes
